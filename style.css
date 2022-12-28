@@ -1,0 +1,56 @@
+.main-header {
+    background: url(../images/o.jpg);
+    min-height: 800px;
+    background-size: cover;
+    background-position: center;
+    color: rgb(255, 255, 255)
+}
+
+.main-header-signup {
+    background: url(../images/o.jpg);
+    min-height: 400px;
+    background-size: cover;
+    background-position: center;
+    color: rgb(255, 255, 255)
+}
+
+.main-header-contactus {
+    background: url(../images/o.jpg);
+    min-height: 400px;
+    background-size: cover;
+    background-position: center;
+    color: rgb(255, 255, 255)
+}
+
+.main-header-contactus .showcase {
+    padding-top: 50px
+}
+
+.main-header-signup .showcase {
+    padding-top: 50px
+}
+
+.main-header .showcase { 
+    padding-top: 50px
+}
+
+.section-services {
+    position: relative;
+    background: url(../images/19.jpg);
+    min-height: 100px;
+    background-size: cover;
+}
+
+.primary-overlay {
+    background: rgba(228, 236, 245, 0.4);
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.btn-extend {
+    display: block;
+    width: 100%
+}
